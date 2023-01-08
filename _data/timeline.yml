@@ -17,45 +17,72 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+- title: Teaching Assistant
+  title-url: https://ku.edu.tr/
+  date: Sep 2015 - Feb 2019
+  subtitle: TA
   tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
+    - tag: Statistics
+    - tag: Robotics
+    - tag: Python
+    - tag: Java
   timeline-side: right
 
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
+- title: Koc University
+  title-url: https://ku.edu.tr/
+  date: 2015 - 2021
+  subtitle: Ph.D. Computational Sciences and Engineering
   tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
-  timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+    - tag: Surface Haptics
+    - tag: Tactile Sensing
+    - tag: UX Design
+    - tag: Matlab
+    - tag: C#
+    - tag: Python
+    - tag: SPSS
+    - tag: Java
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
+- title: Manager Simulation
+  title-url: 
+  date: Mar 2015 - Jun 2015
+  subtitle: Manager & Developer
   tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+    - tag: C#
+    - tag: SOFA
+    - tag: Microsoft Access
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+- title: Software Engineer
+  title-url: NUST-SEECS
+  date: Jun 2011 - Mar 2015
+  subtitle: Developer & Researcher
+  tags:
+    - tag: C++
+    - tag: SOFA
+  timeline-side: left
+
+
+- title: School of Electrical Engineering and Computer Sciences-NUST
+  title-url: https://seecs.nust.edu.pk/
+  date: 2010 - 2014
+  subtitle: M.S. Information Technology
+  tags:
+    - tag: Surgical Simulations
+    - tag: Biomedical Imaging
+    - tag: SOFA
+    - tag:  C++
+    - tag: CMake
+    - tag: LaTeX
+  timeline-side: right
+
+
+- title: Pakistan Institute of Engineering and Applied Sciences (PIEAS)
+  title-url: https://www.pieas.edu.pk/
+  date: 2004 - 2008
+  subtitle: B.S. Computer & Information Sciences
+  tags:
+    - tag: Computational Intelligence
+    - tag: Multi-objective optimization
+    - tag: Matlab
   timeline-side: left
