@@ -86,6 +86,7 @@ function jekyll(done) {
         'exec',
         'jekyll',
         'build',
+        // '--watch',
         '--incremental',
         '--config=_config.yml,_config_dev.yml'
       ],
